@@ -1,0 +1,9 @@
+* do-urlencode
+
+Percent Encoding (aka URL Encoding) library.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/drdo/do-urlencode.git |
+| commit  | 1998464                                      |
+| systems | do-urlencode                                 |
+|---------+----------------------------------------------|
